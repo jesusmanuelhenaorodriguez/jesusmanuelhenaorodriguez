@@ -2,8 +2,6 @@
 
 <img align="right" width="400" height="400" src="https://github.com/SGarcia710/SGarcia710/blob/main/profile-image.png?raw=true">
 
-<img  align="right" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=jesusmanuelhenaorodriguez.jesusmanuelhenaorodriguez" /> 
-
 # Hi there, I'm Jesus
 
 I’m currently working on web and mobile development with technologies like JavaScript, React, Nextjs, Gatsby, React Native etc.
