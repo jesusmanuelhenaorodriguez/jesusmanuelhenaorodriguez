@@ -2,9 +2,9 @@
 
 <img align="right" width="400" height="400" src="https://github.com/SGarcia710/SGarcia710/blob/main/profile-image.png?raw=true">
 
-<img  align="right" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=SGarcia710.SGarcia710" /> 
+<img  align="right" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=jesusmanuelhenaorodriguez.jesusmanuelhenaorodriguez" /> 
 
-# Hi there, I'm Sebastián
+# Hi there, I'm Jesus
 
 I’m currently working on web and mobile development with technologies like JavaScript, React, Nextjs, Gatsby, React Native etc.
 
@@ -13,15 +13,8 @@ I’m currently working on web and mobile development with technologies like Jav
 
 🎮 Gaming | ✈️ Travel | 📚 Learning
 
-- :earth_americas: I'm from Cali - Colombia
+- :earth_americas: I'm from Restrepo - Colombia
 - :iphone: Apple Development Enthusiast
-
-## Contact me :mailbox_with_no_mail:
-
-[![Twitter Badge](https://img.shields.io/badge/-@sebg96-black?style=flat-square&logo=twitter&link=https://twitter.com/sebg96)](https://twitter.com/sebg96)
-[![Linkedin Badge](https://img.shields.io/badge/-Sebastián_García-black?style=flat-square&logo=Linkedin&link=https://www.linkedin.com/in/sebastian-garcia-ospina/)](https://www.linkedin.com/in/sebastian-garcia-ospina/) 
-[![Outlook](https://img.shields.io/badge/-sgarcia710@outlook.com-black?style=flat-square&logo=Microsoft-Outlook)](mailto:sgarcia710@outlook.com)
-
 
 ### My Tech Stack
 
